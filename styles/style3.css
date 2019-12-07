@@ -1,0 +1,72 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	background-image: url(../images/login.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+	font-family: new time roman;
+}
+ul{
+	margin-bottom: 50px;
+}
+ul a{
+	font-size: 29px;
+	color: red;
+}
+ul a:hover{
+	text-decoration: none;
+	color: gray;
+}
+.label{
+	font-size: 20px;
+	color: red;
+	font-weight: normal;
+}
+.form-control{
+	background: transparent;
+	border-radius: 0px;
+	border: 0px;
+	border-bottom: 1px solid #F44C89;
+	margin-bottom: 30px;
+	font-size: 22px;
+	color: white;
+	padding: 20px;
+}
+input[type = "checkbox"]{
+	height: 15px;
+	width: 15px;	
+}
+small{
+	font-size: 19px;
+	color: red;
+}
+.btn-info{
+	background: #F44C89;
+	border: 2px solid #F44C89;
+	border-radius: 0px;
+	width: 360px;
+	margin-top: 20px;
+	font-size: 20px;
+	background: transparent;
+}
+.btn-info:hover{
+	background: #F44C89;
+	border: 2px solid #FFF;
+}
+
+h6{
+	font-size: 16px;
+	color: red;
+	margin-top: 40px;
+}
+p{
+	font-size: 16px;
+	color: red;
+
+}
+img{
+	width: 365px;
+	height: 590px;
+}

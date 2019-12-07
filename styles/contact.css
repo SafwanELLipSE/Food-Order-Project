@@ -1,0 +1,78 @@
+.navbar-dark{
+	height: 40px;
+}
+.carousel-item img{
+	width: 100%;
+	height: 550px;
+}
+body{
+	background-image: url(../images/back.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+	font-family: new time roman;
+}
+.conme{
+	opacity: 0.8;
+}
+
+.conme ul{
+	margin-bottom: 50px;
+}
+.conme ul a{
+	font-size: 29px;
+	color: black;
+}
+.conme ul a:hover{
+	text-decoration: none;
+	color: gray;
+}
+.label{
+	font-size: 20px;
+	font-weight: normal;
+}
+.form-control{
+	background: transparent;
+	border-radius: 0px;
+	border: 0px;
+	border-bottom: 1px solid #F44C89;
+	margin-bottom: 30px;
+	font-size: 22px;
+	color: white;
+	padding: 20px;
+}
+.btn-info{
+	background: #F44C89;
+	color: #F44C89;
+	border: 2px solid #F44C89;
+	border-radius: 0px;
+	width: 360px;
+	margin-top: 20px;
+	font-size: 20px;
+	background: transparent;
+	margin-left: 75px;
+	margin-bottom: 12px;
+}
+.btn-info:hover{
+	background: #F44C89;
+	border: 2px solid #FFF;
+}
+.comna ul{
+	margin-bottom: 50px;
+}
+.comna ul a{
+	font-size: 29px;
+	color: black;
+}
+.comna ul a:hover{
+	text-decoration: none;
+	color: gray;
+}
+.magic a{
+	text-decoration: none;
+}
+
+.magic a i{
+	text-decoration: none;
+}
+
+

@@ -1,0 +1,15 @@
+.navbar-dark{
+	height: 40px;
+}
+.carousel-item img{
+	width: 100%;
+	height: 550px;
+}
+.card{
+	height:485px;
+}
+.underline{
+	width: 100px; 
+	height:2px; 
+	background-color: orangered;
+}
